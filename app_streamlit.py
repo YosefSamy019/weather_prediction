@@ -36,7 +36,7 @@ def main():
 
     st.image('dataset-cover.png')
 
-    with st.container(border=True):
+    with st.container():
         cols = [st.columns(2) for _ in range(4)]
 
         Input_date = cols[0][0].date_input("Select date")
