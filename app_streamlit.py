@@ -52,7 +52,7 @@ def main():
         Input_Visibility_km = cols[3][0].number_input(label='Visibility (km)', value=Input_Visibility_km)
         Input_Press_kPa = cols[3][1].number_input(label='Press (kPa)', value=Input_Press_kPa)
 
-        st.container(height=10, border=False)
+        st.container(height=10)
 
         if st.button('Predict', type='primary', use_container_width=True):
             y_labeled = predict( datetime.combine(Input_date, Input_time), Input_Temp_C, Input_Dew_Point_Temp_C, Input_Rel_Hum_Percent, Input_Wind_Speed_km_h, Input_Visibility_km, Input_Press_kPa)
