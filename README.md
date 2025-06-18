@@ -212,7 +212,7 @@ Store important components for future inference:
 ## 🚀 Live Demo
 
 Check out the live Streamlit app here:  
-🔗 [Weather Prediction App](https://weatherprediction-4dhv4ryqdqx7ccvijd8aou.streamlit.app/)
+🔗 [Weather Prediction App](https://weatherprediction-jhw7mnj8pwmm8s4ng3bhzb.streamlit.app/)
 
 ---
 
