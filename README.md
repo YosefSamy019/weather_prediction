@@ -209,6 +209,13 @@ Store important components for future inference:
 
 ---
 
+## 🚀 Live Demo
+
+Check out the live Streamlit app here:  
+🔗 [Weather Prediction App](https://weatherprediction-4dhv4ryqdqx7ccvijd8aou.streamlit.app/)
+
+---
+
 ## 🚀 Future Improvements
 
 * Integrate LSTM or temporal models
