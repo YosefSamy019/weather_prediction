@@ -1,0 +1,7 @@
+[theme]
+base="light"
+primaryColor="#00BCD4"              # Bright turquoise for accents
+backgroundColor="#FAFAFA"           # Very light gray for a clean look
+secondaryBackgroundColor="#FFF9C4"  # Soft yellow for sidebars/panels
+textColor="#212121"                 # Nearly black for crisp text
+font="sans serif"                   # Clean and readable
